@@ -11,3 +11,4 @@
 ##### 疑难杂症
 
 ##### 随笔杂记
+- [超简单shadowsocks翻墙教程](?file=004-随笔杂记/01-超简单shadowsocks翻墙教程 "超简单shadowsocks翻墙教程")
