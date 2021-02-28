@@ -1,7 +1,7 @@
 {
   "name": "OCC Wiki",
   "ver": "Beta V0.91",
-  "logo": "https://raw.githubusercontent.com/kickjay23/kickjay23.github.io/main/assets/Logo.PNG",
+  "logo": "./assets/Logo.PNG",
   "colour": "#242424",
   "page-mounts":true
 }
