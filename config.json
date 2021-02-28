@@ -1,7 +1,7 @@
 {
   "name": "OCC Wiki",
   "ver": "Beta V0.91",
-  "logo": "./assets/Logo.PNG",
+  "logo": "./assets/alogo.png",
   "colour": "#242424",
   "page-mounts":true
 }

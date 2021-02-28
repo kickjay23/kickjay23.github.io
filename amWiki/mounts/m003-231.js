@@ -1,0 +1,1 @@
+if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['m003']=[{"name":"01-Example.md","path":"003-疑难杂症/01-Example.md","content":"# Example\r\n\r\ntest\r\n\r\n![](./assets/24418699.png)\r\n","timestamp":1614502581435}]
